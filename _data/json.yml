@@ -16,4 +16,5 @@
       url: "mailto:jwengler4304@stu.neisd.net"
 - key: Profiles
   value:
-    - value: Github
+    - value: GitHub
+      url: https://github.com
