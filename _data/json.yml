@@ -14,6 +14,8 @@
   value:
     - value: GitHub
       url: https://github.com/JacksonWengler
+    - value: Projects
+      url: https://jacksonwengler.github.io/projects
 - key: Source
   value: JacksonWengler/jacksonwengler.github.io
   url: https://github.com/JacksonWengler/jacksonwengler.github.io
